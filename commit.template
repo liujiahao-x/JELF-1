@@ -1,0 +1,12 @@
+[module] <message title>
+
+DISCRIPTOR:
+1. XXX
+2. XXX
+
+#module:
+#	kernel  - kernel or "rt-thread/include" part.
+#	shell	- command shell part.
+#	DFS	- file system of the deviece part
+#	lwip	- network protocol stack modification
+#	other module - reference https://github.com/RT-Thread/rtthread-specification/blob/master/git_pr.md
